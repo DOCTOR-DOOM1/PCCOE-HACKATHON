@@ -1,0 +1,6 @@
+{
+  "name": "JalMitra — AI Groundwater & Irrigation Advisory",
+  "description": "Multilingual (English, Marathi, Hindi) AI groundwater, soil moisture, and irrigation advisory platform with interactive Maharashtra water stress heat map, multimodal crop stress diagnostics, KVK RAG grounding, and village water committee resilience dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
